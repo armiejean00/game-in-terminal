@@ -102,3 +102,6 @@ def main(stdscr):
 			break
 
 curses.wrapper(main)
+
+print('Back to Menu')
+from link_menu import print_menu5
